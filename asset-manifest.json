@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arithmeticoperation/static/css/main.a7508660.css",
+    "main.js": "/arithmeticoperation/static/js/main.4c63766a.js",
+    "static/js/787.a1a99456.chunk.js": "/arithmeticoperation/static/js/787.a1a99456.chunk.js",
+    "index.html": "/arithmeticoperation/index.html",
+    "main.a7508660.css.map": "/arithmeticoperation/static/css/main.a7508660.css.map",
+    "main.4c63766a.js.map": "/arithmeticoperation/static/js/main.4c63766a.js.map",
+    "787.a1a99456.chunk.js.map": "/arithmeticoperation/static/js/787.a1a99456.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7508660.css",
+    "static/js/main.4c63766a.js"
+  ]
+}
